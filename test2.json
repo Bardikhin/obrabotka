@@ -1,0 +1,16 @@
+[{
+	"question" : "Чемпион",
+	"answer1" : "Урал",
+	"answer2" : "Спартак",
+	"answer3" : "Зенит",
+	"answer4" : "Локо",
+	"correct_answer" : "Спартак"
+},
+{	
+	"question" : "Квадратный корень из 25",
+	"answer1" : "5",
+	"answer2" : "+-5",
+	"answer3" : "|5|",
+	"answer4" : "50",
+	"correct_answer" : "5"
+}]
